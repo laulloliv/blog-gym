@@ -5,7 +5,7 @@
 - Fins acadêmicos
 
 ## Resumo
-Blog fictício sobre academia criado para o cumprimento das atividades
+Blog fictício sobre academia. Projeto criado para o cumprimento das atividades
 da disciplina de Desenvolvimento Web do
 curso de Análise e Desenvolvimento de Sistemas.
 
